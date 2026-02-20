@@ -1,0 +1,16 @@
+<!-- res/values/themes.xml -->
+<resources>
+    <!--
+        Parent: Theme.Material3.DayNight.NoActionBar
+        - Included by the Material3 dependency already in build.gradle.kts
+        - NoActionBar = no title bar (replaces the broken android:Theme.Material.NoTitleBar.Fullscreen)
+        - Compose draws all UI; this theme only needs to satisfy the Manifest reference
+    -->
+    <style name="Theme.GlitchLabyrinth" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+</resources>
