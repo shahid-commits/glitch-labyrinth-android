@@ -68,4 +68,4 @@ To install:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/glitch-labyrinth-android.git
+   git clone https://github.com/shahid-commits/glitch-labyrinth-android.git
