@@ -57,7 +57,7 @@ No external game engine – pure Android SDK.
 
 Release APKs are in the `release-apk` folder.
 
-Latest version: [glitch_labyrinth_v1.apk](release-apk/glitch_labyrinth_v1.apk)
+Latest version: [glitch_labyrinth_v1.0.0.apk](release-apk/glitch_labyrinth_v1.0.0.apk)
 
 To install:
 1. Download the APK to your Android device.
